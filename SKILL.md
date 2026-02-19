@@ -3,8 +3,8 @@ name: first-principles-breakdown
 description: Reduce complex problems to fundamental truths by stripping away assumptions and conventional wisdom, then rebuild from ground truth - following Naval Ravikant's approach to clear thinking.
 license: MIT
 metadata:
+  version: 1.0.4005
   author: sethmblack
-  version: 1.0.4004
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - first-principles-breakdown
